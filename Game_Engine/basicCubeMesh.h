@@ -12,6 +12,8 @@
 
 using namespace std;
 
+//this is just a test comment
+
 struct basicCubeVertex
 {
 	glm::vec3 Position;
